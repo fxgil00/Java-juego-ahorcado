@@ -3,7 +3,7 @@ Hicimos un juego de ahorcado en Java donde uno debe ir colocando letra a letra e
 
 ## ¿Qué herramientas se utilizaron?
 1. Clase scanner.
-2. Ceclaraciones y asignaciones.
+2. Declaraciones y asignaciones.
 3. Arreglos.
 4. Estrutura de control: Iterativa (Bucle)
 5. Clase String y sus métodos valueOf y length()
